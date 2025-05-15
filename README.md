@@ -19,10 +19,5 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/790552703058837514)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~http404)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=error-four-o-four&theme=transparent" />
-</a>
-<a href="https://github.com/error-four-o-four/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=error-four-o-four&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+<img height=240 align="center" src="https://github-readme-stats.vercel.app/api?username=error-four-o-four&show_icons=true&hide_rank=true&theme=transparent" style="padding-bottom: 1rem;" />
+<img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=error-four-o-four&layout=compact&langs_count=8&theme=transparent" />
